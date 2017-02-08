@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QSString_Example' do
+  pod 'QSString', :path => '../'
+
+  target 'QSString_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
