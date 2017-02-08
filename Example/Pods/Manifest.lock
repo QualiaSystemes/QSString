@@ -1,0 +1,16 @@
+PODS:
+  - QSString (0.1.0)
+
+DEPENDENCIES:
+  - QSString (from `../`)
+
+EXTERNAL SOURCES:
+  QSString:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QSString: 85da00d9a30d13feb84086a755054ef9c2c7ef56
+
+PODFILE CHECKSUM: c3318191ec4b66566a78b15b6d6c8d478eabcbb3
+
+COCOAPODS: 1.2.0

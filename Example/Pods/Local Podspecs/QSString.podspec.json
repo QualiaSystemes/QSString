@@ -1,0 +1,22 @@
+{
+  "name": "QSString",
+  "version": "0.1.0",
+  "summary": "A short description of QSString.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/QualiaSystemes/QSString",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "QualiaSystemes": "technique@qualia.fr"
+  },
+  "source": {
+    "git": "https://github.com/QualiaSystemes/QSString.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QSString/Classes/**/*"
+}

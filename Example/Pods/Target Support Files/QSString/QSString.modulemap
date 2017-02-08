@@ -1,0 +1,6 @@
+framework module QSString {
+  umbrella header "QSString-umbrella.h"
+
+  export *
+  module * { export * }
+}
